@@ -21,8 +21,6 @@ header {
     font-size: 18px;
     font-weight: bold;
     position: fixed;
-    left: 0;
-    top: 0;
     weidth: 100%;
     box-shadow: 0 2px 5px rgba(228, 220, 220, 0.2);
     z-index: 1000;
