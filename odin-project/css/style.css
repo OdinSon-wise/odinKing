@@ -90,6 +90,9 @@ header {
 /* responsive */
 
 @media screen and (max-width: 768px) {
+    body { 
+        height: 100vh;
+    }
     header {
         background: transparent;
     }
@@ -212,9 +215,6 @@ header {
 
 /* responsive */
 @media screen and (max-width: 768px) {
-    body {
-        height: 100%;
-    }
     .home-content h1 {
         font-size: 40px;
     }
